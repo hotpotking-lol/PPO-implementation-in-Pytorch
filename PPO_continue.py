@@ -278,7 +278,7 @@ def main(k):
 
 
 if __name__ == '__main__':
-    print('direction150')
+    print('runing with custom env')
     # training for 25 times
     #for k in range(9, 25):
     main(1)
